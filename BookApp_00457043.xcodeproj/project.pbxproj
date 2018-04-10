@@ -12,6 +12,7 @@
 		0EF3C65C2071005E00F3703B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3C65A2071005E00F3703B /* Main.storyboard */; };
 		0EF3C65E2071005E00F3703B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3C65D2071005E00F3703B /* Assets.xcassets */; };
 		0EF3C6612071005E00F3703B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3C65F2071005E00F3703B /* LaunchScreen.storyboard */; };
+		0EF3C6692071060900F3703B /* CENTAUR.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 0EF3C6682071060800F3703B /* CENTAUR.TTF */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0EF3C65D2071005E00F3703B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0EF3C6602071005E00F3703B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0EF3C6622071005E00F3703B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EF3C6682071060800F3703B /* CENTAUR.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = CENTAUR.TTF; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		0EF3C6552071005E00F3703B /* BookApp_00457043 */ = {
 			isa = PBXGroup;
 			children = (
+				0EF3C6682071060800F3703B /* CENTAUR.TTF */,
 				0EF3C6562071005E00F3703B /* AppDelegate.swift */,
 				0EF3C6582071005E00F3703B /* ViewController.swift */,
 				0EF3C65A2071005E00F3703B /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EF3C6612071005E00F3703B /* LaunchScreen.storyboard in Resources */,
+				0EF3C6692071060900F3703B /* CENTAUR.TTF in Resources */,
 				0EF3C65E2071005E00F3703B /* Assets.xcassets in Resources */,
 				0EF3C65C2071005E00F3703B /* Main.storyboard in Resources */,
 			);
